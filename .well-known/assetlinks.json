@@ -1,1 +1,1 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.pazzelcode.mosa","sha256_cert_fingerprints":["9A:D3:5D:85:B0:19:70:93:24:19:1B:38:B3:11:3B:8C:E3:E1:F0:9A:63:B6:57:DF:17:32:9A:A2:F4:0B:18:FB"]}}]
+[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.pazzelcode.mosa","sha256_cert_fingerprints":["85:20:EE:53:E1:39:BE:08:4B:B0:A3:F3:39:9E:77:7C:30:22:89:BD:13:09:9F:BB:62:DD:77:66:77:19:ED:8F"]}}]
