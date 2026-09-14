@@ -5,9 +5,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.pazzelcode.mosa",
+      "package_name": "io.github.pazzelcode.twa",
       "sha256_cert_fingerprints": [
-        "85:20:EE:53:E1:39:BE:08:4B:B0:0A:3F:33:9E:77:7C:30:22:89:BD:13:09:9F:BB:62:DD:77:66:77:19:ED:8F"
+        "F2:07:C5:1D:3C:27:51:AD:0A:FB:CC:BD:DE:19:0E:4E:03:D0:02:4B:34:48:B2:26:74:73:D0:A0:1D:71:E3:30"
       ]
     }
   }
